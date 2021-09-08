@@ -1,4 +1,5 @@
 /* Codigo: Leitores e escritores usando monitores em Java */
+/* saidas para que seja possivel acompanhar a execucao do programa */
 
 // Monitor que implementa a logica do padrao leitores/escritores
 class LE {
